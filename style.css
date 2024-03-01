@@ -1,0 +1,24 @@
+.flag {
+  height: 600px;
+  width: 800px;
+  border: 5px solid black;
+}
+.orange {
+  height: 200px;
+  width: 100%;
+  background-color: orange;
+}
+.white {
+  height: 200px;
+  background-color: white;
+}
+.white img {
+  height: 200px;
+  position: relative;
+  left: 300px;
+}
+.green {
+  height: 200px;
+  width: 100%;
+  background-color: green;
+}
